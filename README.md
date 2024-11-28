@@ -16,6 +16,8 @@
 
 31. **리액트 앱 테스트** (31-unit-test)
 
+32. **리액트 + TypeScript** (32-typescript-basics)
+
 ---
 
 ### 배포
