@@ -18,6 +18,8 @@
 
 32. **리액트 + TypeScript** (32-typescript-basics, 33-react-typescript)
 
+33. **리액트 요약 및 핵심 기능 둘러보기** (34-react-summary)
+
 ---
 
 ### 배포
@@ -25,6 +27,8 @@
 - [31-unit-test](https://31-unit-test.vercel.app/)
 
 - [33-react-typescript](https://33-react-typescript.vercel.app/)
+
+- [34-react-summary](https://34-react-summary.vercel.app/)
 
 ---
 
