@@ -20,6 +20,8 @@
 
 33. **리액트 요약 및 핵심 기능 둘러보기** (34-react-summary)
 
+34. **[보너스] 리액트 기초 및 실습 컴포넌트** (35-bonus-basics)
+
 ---
 
 ### 배포
@@ -30,11 +32,13 @@
 
 - [34-react-summary](https://34-react-summary.vercel.app/)
 
+- [35-bonus-basics](https://35-bonus-basics.vercel.app/)
+
 ---
 
 ### etc
 
-- 31-unit-test, 33-react-typescript
+- 31-unit-test, 33-react-typescript, 35-bonus-basics
 
   - `npm run dev`대신 `npm start`로 로컬 실행
 
