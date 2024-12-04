@@ -34,7 +34,7 @@
 
 ### etc
 
-- 31-unit-test
+- 31-unit-test, 33-react-typescript
 
   - `npm run dev`대신 `npm start`로 로컬 실행
 
