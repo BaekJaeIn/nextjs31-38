@@ -22,6 +22,8 @@
 
 34. **[보너스] 리액트 기초 및 실습 컴포넌트** (35-bonus-basics)
 
+35. **[보너스] 연습시간 : 컴포넌트 기본** (36-bonus-component)
+
 ---
 
 ### 배포
@@ -34,11 +36,13 @@
 
 - [35-bonus-basics](https://35-bonus-basics.vercel.app/)
 
+- [36-bonus-component](https://36-bonus-component.vercel.app/)
+
 ---
 
 ### etc
 
-- 31-unit-test, 33-react-typescript, 35-bonus-basics
+- 31-unit-test, 33-react-typescript, 35-bonus-basics, 36-bonus-component
 
   - `npm run dev`대신 `npm start`로 로컬 실행
 
