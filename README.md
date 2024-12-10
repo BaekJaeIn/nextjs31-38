@@ -28,6 +28,8 @@
 
 37. **[보너스] 렌더링 리스트 및 조건부 콘텐트** (35-bonus-basics)
 
+38. **[보너스] 연습하기 : 종합 연습 프로젝트** (37-bonus-project-1, 38-bonus-project-2)
+
 ---
 
 ### 배포
@@ -42,11 +44,15 @@
 
 - [36-bonus-component](https://36-bonus-component.vercel.app/)
 
+- [37-bonus-project-1](https://37-bonus-project-1.vercel.app/)
+
+- [38-bonus-project-2](https://38-bonus-project-2.vercel.app/)
+
 ---
 
 ### etc
 
-- 31-unit-test, 33-react-typescript, 35-bonus-basics, 36-bonus-component
+- 31-unit-test, 33-react-typescript, 35-bonus-basics, 36-bonus-component, 37-bonus-project-1, 38-bonus-project-2
 
   - `npm run dev`대신 `npm start`로 로컬 실행
 
